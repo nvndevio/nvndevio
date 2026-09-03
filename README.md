@@ -31,19 +31,6 @@
   </a>
 </p>
 
-<br />
-
-### Featured work
-
-| Project | Stack | Link |
-| --- | --- | --- |
-| **OneFlowAI** | Next.js · React · TypeScript | AI platform @ CJ OliveNetworks |
-| **Lift** | Frontend | [liftpay.app](https://www.liftpay.app/) |
-| **Dosiin** | Vue.js 2 | [dosi-in.com](https://dosi-in.com/) |
-| **Chus** | Frontend | [chus.vn](https://chus.vn/) |
-| **em.fresh** | Laravel · Bootstrap | [emfresh.vn](https://emfresh.vn/) |
-| **Ravolution Asia** | Frontend | [ravolution.asia](https://www.ravolution.asia/) |
-
 ---
 
 ### GitHub stats
