@@ -13,9 +13,7 @@
 </div>
 
 ---
-
-- 🔭 I’m currently working as a **Frontend Developer** at [DOSI Group](https://dosi-in.com/)
-- 🌱 I’m growing toward **Senior Frontend Engineer** & exploring Full-stack
+- 🌱 I’m growing toward **Senior Engineer** & exploring Full-stack
 - ⚡ 4+ years with **React.js, Next.js, Vue.js, Nuxt.js, TypeScript**
 - 📫 How to reach me: **vannguyen2533@gmail.com**
 - 📍 Ho Chi Minh City, Vietnam
